@@ -9,7 +9,7 @@
 ### Steps
 1. Clone the project
 2. Go to the project directory
-3. In VsCode therminal run the follow command:
+3. In VsCode terminal run the follow command:
 `npm install cypress --save-dev`
 
 ### How to run the project
